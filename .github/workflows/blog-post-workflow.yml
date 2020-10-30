@@ -14,5 +14,5 @@ jobs:
                 comment_tag_name: "BLOG-POST-LIST"
                 max_post_count: "4"
                 user_agent: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
-                accept_header: 'text/xml'
+                accept: 'text/xml'
                 feed_list: "https://iphysresearch.github.io/blog/index.xml"
