@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing an Electron App Implemented with Angular Using OIDC and OAuth2](https://offering.solutions/blog/articles/2020/10/06/securing-an-electron-app-implemented-with-angular-using-oidc-and-oauth2/)
-- [Securing a Cordova App Implemented with Angular Using OIDC and OAuth2](https://offering.solutions/blog/articles/2020/09/17/securing-a-cordova-app-implemented-with-angular-using-oidc-and-oauth2/)
-- [Uploading Files to Azure Blob Storage with Angular and ASP.NET Core](https://offering.solutions/blog/articles/2020/08/09/uploading-files-to-azure-blob-storage-with-angular-and-asp.net-core/)
-- [Building a Sample Todo App with Signalr Using Blazor WebAssembly](https://offering.solutions/blog/articles/2020/06/05/building-a-sample-todo-app-with-signalr-using-blazor-webassembly/)
-- [Authentication in Angular with NgRx and ASP.NET Core](https://offering.solutions/blog/articles/2020/05/29/authentication-in-angular-with-ngrx-and-asp.net-core/)
+- [Writing technical content in Academic](https://iphysresearch.github.io/blog/post/writing-technical-content/)
+- [Display Jupyter Notebooks with Academic](https://iphysresearch.github.io/blog/post/jupyter/)
+- [Docker 简易入门教程](https://iphysresearch.github.io/blog/post/docker-tutorial/)
+- [Ray Tutorial](https://iphysresearch.github.io/blog/post/ray-tutorial/)
+- [Centos7/CUDA-9.2/cuDNN-7.3/MXNet-cu92/Floydhub 深度学习环境配置手册](https://iphysresearch.github.io/blog/post/centos7_cuda_9.2_cudnn_7.3_mxnet_cu92_floydhub_myinstallitionnotes/)
 <!-- BLOG-POST-LIST:END -->
