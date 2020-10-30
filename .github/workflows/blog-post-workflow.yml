@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
-    schedule:
-        - cron: '0 * * * *'
+    schedule: # Run workflow automatically
+        - cron: '0 * * * *'  # Runs every hour, on the hour
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://iphysresearch.github.io/blog/index.xml"
+                feed_list: "https://iphysresearch.github.io/blog/"
