@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/linux_shell/screen/)
+- [深度学习: 从理论到算法 (王力威教授)](https://iphysresearch.github.io/blog/post/ml_notes/liweiwang_dl_from_theory_to_algorithm/)
 - [累积引力波事件率图的 python 实现](https://iphysresearch.github.io/blog/post/gw/cumulative_numbe_of_gwevents/)
+- [傅里叶变换算法及其 python 实现](https://iphysresearch.github.io/blog/post/signal_processing/fft/)
 - [Docker 简易入门教程](https://iphysresearch.github.io/blog/post/docker-tutorial/)
-- [Ray Tutorial](https://iphysresearch.github.io/blog/post/ray-tutorial/)
-- [关于感受野 (Receptive field) 你该知道的事](https://iphysresearch.github.io/blog/post/receptive-field/)
-- [Centos7/CUDA-9.2/cuDNN-7.3/MXNet-cu92/Floydhub 深度学习环境配置手册](https://iphysresearch.github.io/blog/post/centos7_cuda_9.2_cudnn_7.3_mxnet_cu92_floydhub_myinstallitionnotes/)
 <!-- BLOG-POST-LIST:END -->
