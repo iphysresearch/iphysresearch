@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/linux_shell/screen/)
+- [贝叶斯深度学习前沿进展 (朱军教授)](https://iphysresearch.github.io/blog/post/ml_notes/junzhu_bayesian_deep_learning/)
 - [深度学习: 从理论到算法 (王力威教授)](https://iphysresearch.github.io/blog/post/ml_notes/liweiwang_dl_from_theory_to_algorithm/)
 - [累积引力波事件率图的 python 实现](https://iphysresearch.github.io/blog/post/gw/cumulative_numbe_of_gwevents/)
-- [傅里叶变换算法及其 python 实现](https://iphysresearch.github.io/blog/post/signal_processing/fft/)
-- [Docker 简易入门教程](https://iphysresearch.github.io/blog/post/docker-tutorial/)
+- [Markdown Elements for Hugo/Wowchemy](https://iphysresearch.github.io/blog/post/writting-markdown/)
 <!-- BLOG-POST-LIST:END -->
