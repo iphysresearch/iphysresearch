@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Gravitational Waves Data Analysis](https://iphysresearch.github.io/blog/project/gwda/)
-- [GW news and playground](https://iphysresearch.github.io/blog/project/gw-news-playground/)
-- [Theory of GW and beyond](https://iphysresearch.github.io/blog/project/gravitational-waves/)
-- [Theory of Machine Learning](https://iphysresearch.github.io/blog/project/machine-learning/)
-- [CS231n Resources](https://iphysresearch.github.io/blog/project/cs231n/)
+- [Interactive GW simulation in JavaScript for NSs or BBHs](https://iphysresearch.github.io/blog/post/gw_notes/spinning_nss_bbhs/)
+- [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/programing/linux_shell/screen/)
+- [贝叶斯深度学习前沿进展 (朱军教授)](https://iphysresearch.github.io/blog/post/ml_notes/junzhu_bayesian_deep_learning/)
+- [深度学习: 从理论到算法 (王力威教授)](https://iphysresearch.github.io/blog/post/ml_notes/liweiwang_dl_from_theory_to_algorithm/)
+- [累积引力波事件率图的 python 实现](https://iphysresearch.github.io/blog/post/gw_notes/cumulative_numbe_of_gwevents/)
+- [Markdown Elements for Hugo/Wowchemy](https://iphysresearch.github.io/blog/post/writting-markdown/)
 
 <!-- BLOG-POST-LIST:END -->
