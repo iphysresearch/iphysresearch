@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Python 装饰器之 Property: Setter 和 Getter](https://iphysresearch.github.io/blog/post/programing/python/property_setter/)
 - [Interactive GW simulation in JavaScript for NSs or BBHs](https://iphysresearch.github.io/blog/post/gw_notes/spinning_nss_bbhs/)
 - [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/programing/linux_shell/screen/)
 - [贝叶斯深度学习前沿进展 (朱军教授)](https://iphysresearch.github.io/blog/post/ml_notes/junzhu_bayesian_deep_learning/)
 - [深度学习: 从理论到算法 (王力威教授)](https://iphysresearch.github.io/blog/post/ml_notes/liweiwang_dl_from_theory_to_algorithm/)
 - [累积引力波事件率图的 python 实现](https://iphysresearch.github.io/blog/post/gw_notes/cumulative_numbe_of_gwevents/)
-- [Markdown Elements for Hugo/Wowchemy](https://iphysresearch.github.io/blog/post/writting-markdown/)
 
 <!-- BLOG-POST-LIST:END -->
