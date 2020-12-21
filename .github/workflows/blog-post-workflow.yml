@@ -25,4 +25,4 @@ jobs:
           accept_header: 'text/xml'
           description_max_length: "40"
           tag_post_pre_newline: "true"
-          max_post_count: "6"
+          max_post_count: "10"
