@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [Python 装饰器之 Property: Setter 和 Getter](https://iphysresearch.github.io/blog/post/programing/python/property_setter/)
 - [Unit 2: Verbs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit2/)
 - [Unit 1: Introduction; principles of effective writing（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit1/)
-- [S 变换](https://iphysresearch.github.io/blog/post/signal_processing/gst/)
+- [S 变换 (Stockwel transform)](https://iphysresearch.github.io/blog/post/signal_processing/gst/)
 - [Interactive GW simulation in JavaScript for NSs or BBHs](https://iphysresearch.github.io/blog/post/gw_notes/spinning_nss_bbhs/)
 - [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/programing/linux_shell/screen/)
 - [贝叶斯深度学习前沿进展 (朱军教授)](https://iphysresearch.github.io/blog/post/ml_notes/junzhu_bayesian_deep_learning/)
