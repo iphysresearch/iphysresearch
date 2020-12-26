@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 
 - [恒 Q 变换 (Constant-Q transform)](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
+- [Unit 3: Structure & Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
 - [Python 装饰器之 Property: Setter 和 Getter](https://iphysresearch.github.io/blog/post/programing/python/property_setter/)
 - [Unit 2: Verbs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit2/)
 - [Unit 1: Introduction; principles of effective writing（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit1/)
@@ -31,6 +32,5 @@ Here are some ideas to get you started:
 - [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/programing/linux_shell/screen/)
 - [贝叶斯深度学习前沿进展 (朱军教授)](https://iphysresearch.github.io/blog/post/ml_notes/junzhu_bayesian_deep_learning/)
 - [深度学习: 从理论到算法 (王力威教授)](https://iphysresearch.github.io/blog/post/ml_notes/liweiwang_dl_from_theory_to_algorithm/)
-- [累积引力波事件率图的 python 实现](https://iphysresearch.github.io/blog/post/gw_notes/cumulative_numbe_of_gwevents/)
 
 <!-- BLOG-POST-LIST:END -->
