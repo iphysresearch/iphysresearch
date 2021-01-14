@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [谱分析 (spectral analysis) 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
 - [Python 中负数取余问题](https://iphysresearch.github.io/blog/post/programing/python/modulo_on_negative/)
 - [恒 Q 变换 (Constant-Q transform)](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
 - [Unit 3: Structure & Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
@@ -31,6 +32,5 @@ Here are some ideas to get you started:
 - [S 变换 (Stockwel transform)](https://iphysresearch.github.io/blog/post/signal_processing/gst/)
 - [Interactive GW simulation in JavaScript for NSs or BBHs](https://iphysresearch.github.io/blog/post/gw_notes/spinning_nss_bbhs/)
 - [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/programing/linux_shell/screen/)
-- [贝叶斯深度学习前沿进展 (朱军教授)](https://iphysresearch.github.io/blog/post/ml_notes/junzhu_bayesian_deep_learning/)
 
 <!-- BLOG-POST-LIST:END -->
