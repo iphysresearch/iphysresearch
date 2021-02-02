@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Bayes Inference, Bayes factor, Model Selection](https://iphysresearch.github.io/blog/post/ml_notes/bayes_inference_bayes_factor_model_selection/)
 - [谱分析 (spectral analysis) 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
 - [Python 中负数取余问题](https://iphysresearch.github.io/blog/post/programing/python/modulo_on_negative/)
 - [恒 Q 变换 (Constant-Q transform)](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
@@ -31,6 +32,5 @@ Here are some ideas to get you started:
 - [Unit 1: Introduction; principles of effective writing（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit1/)
 - [S 变换 (Stockwel transform)](https://iphysresearch.github.io/blog/post/signal_processing/gst/)
 - [Interactive GW simulation in JavaScript for NSs or BBHs](https://iphysresearch.github.io/blog/post/gw_notes/spinning_nss_bbhs/)
-- [Linux/Unix 中 Screen 命令详解](https://iphysresearch.github.io/blog/post/programing/linux_shell/screen/)
 
 <!-- BLOG-POST-LIST:END -->
