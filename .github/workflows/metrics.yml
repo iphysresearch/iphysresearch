@@ -16,3 +16,9 @@ jobs:
           token: ${{ secrets.METRIC_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # ... other options
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }} # Required
+          plugin_tweets_limit: 2                            # Limit to 2 tweets
+          plugin_tweets_user: .user.twitter                 # Defaults to your GitHub linked twitter username
