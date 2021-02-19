@@ -1,26 +1,39 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  # Lines below let you run workflow manually and on each commit
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRIC_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # ... other options
+
+          # Options
+          user: iphysresearch
+          template: classic
+          base: header, metadata
+          config_animated: yes
+          config_timezone: Asia/Shanghai
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 2
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: all
+          plugin_lines: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
+          plugin_stars: yes
+          plugin_stars_limit: 2
           plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }} # Required
-          plugin_tweets_limit: 2                            # Limit to 2 tweets
-          plugin_tweets_user: .user.twitter                 # Defaults to your GitHub linked twitter username
-          # ... other options
-          plugin_introduction: yes
-          plugin_introduction_title: no # Hide section title          
+          plugin_tweets_limit: 3
+          plugin_tweets_user: .user.twitter
