@@ -808,11 +808,11 @@
             </div>
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                  <text x="60" y="60" dominant-baseline="central">93</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="286.23 329"/>
+                  <text x="60" y="60" dominant-baseline="central">87</text>
                 
               </svg>
               <span class="title">Best Practices</span>
@@ -884,7 +884,7 @@
                   
                   <div class="name">
                     <span>jrieke/best-of-streamlit</span>
-                    <span>starred 20 hours ago</span>
+                    <span>starred 21 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -926,7 +926,7 @@
                   
                   <div class="name">
                     <span>lowlighter/metrics</span>
-                    <span>starred 20 hours ago</span>
+                    <span>starred 21 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1069,7 +1069,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Sat, 20 Feb 2021 11:06:26 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 20 Feb 2021 12:08:24 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
