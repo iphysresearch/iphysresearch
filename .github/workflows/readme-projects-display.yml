@@ -15,3 +15,4 @@ jobs:
       - uses: kaustubhgupta/readme-projects-display@master
         with:
           gh_token: ${{ secrets.README_PROJECTS_DISPLAY }} # Create a secret to store the access token 
+          max_repo_description: 60
