@@ -41,4 +41,13 @@ Here are some ideas to get you started:
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-<!-- PROJECTS END -->
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) 1633⭐ (A collection of popular Data Science Challenges/Co...) 
+* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) 393⭐ (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
+* [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) 14⭐ (S_Dbw validity index) 
+* [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) 6⭐ (My PhD Thesis (HTML)) 
+* [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) 4⭐ (A survey on gravitational waves researches using m...) 
+* [status](https://github.com/iphysresearch/status) 4⭐ (📈 Uptime monitor and status page for Upptime, powe...) 
+* [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) 2⭐ (Demo script (Python) of particle swarm optimizatio...) 
+* [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) 2⭐ (Constant-Q Transform Toolbox for Python/MATLAB) 
+* [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) 1⭐ (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com ) 
+* [GWToolkit](https://github.com/iphysresearch/GWToolkit) 1⭐ (GWToolkit: A Python Toolbox for gravitational wave...)<!-- PROJECTS END -->
