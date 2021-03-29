@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: kaustubhgupta/readme-projects-display@master
         with:
-          gh_token: ${{ secrets.TOKEN }} # Create a secret to store the access token 
+          gh_token: ${{ secrets.readme_projects_display }} # Create a secret to store the access token 
