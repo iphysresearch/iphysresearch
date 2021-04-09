@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [[Paper Summary] Complete parameter inference for GW150914 using deep learning](https://iphysresearch.github.io/blog/post/apaperaday/2002.076562008.03312/)
 - [Particle Swarm Optimization From Scratch Using Python](https://iphysresearch.github.io/blog/post/ml_notes/pso_python/)
 - [Bayes Inference, Bayes Factor, Model Selection](https://iphysresearch.github.io/blog/post/ml_notes/bayes_inference_bayes_factor_model_selection/)
 - [谱分析 (spectral analysis) 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 - [Python 装饰器之 Property: Setter 和 Getter](https://iphysresearch.github.io/blog/post/programing/python/property_setter/)
 - [Unit 2: Verbs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit2/)
 - [Unit 1: Introduction; principles of effective writing（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit1/)
-- [S 变换 (Stockwel transform)](https://iphysresearch.github.io/blog/post/signal_processing/gst/)
 
 <!-- BLOG-POST-LIST:END -->
 
