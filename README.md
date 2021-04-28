@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [解决 GitHub 的 host 域名被限制的问题](https://iphysresearch.github.io/blog/post/programing/linux_shell/hosts/)
 - [[Paper Summary] Complete Parameter Inference for GW150914 Using Deep Learning](https://iphysresearch.github.io/blog/post/apaperaday/complete_parameter_inference_for_gw150914_using_deep_learning/)
 - [Particle Swarm Optimization From Scratch Using Python](https://iphysresearch.github.io/blog/post/ml_notes/pso_python/)
 - [Bayes Inference, Bayes Factor, Model Selection](https://iphysresearch.github.io/blog/post/ml_notes/bayes_inference_bayes_factor_model_selection/)
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 - [Unit 3: Structure & Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
 - [Python 装饰器之 Property: Setter 和 Getter](https://iphysresearch.github.io/blog/post/programing/python/property_setter/)
 - [Unit 2: Verbs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit2/)
-- [Unit 1: Introduction; principles of effective writing（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit1/)
 
 <!-- BLOG-POST-LIST:END -->
 
