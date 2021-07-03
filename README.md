@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1639⭐, 320** forks (A collection of popular Data Science Challenges/Competitions...) 
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1638⭐, 320** forks (A collection of popular Data Science Challenges/Competitions...) 
 * [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **430⭐, 138** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **15⭐, 8** forks (S_Dbw validity index) 
 * [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **6⭐, 0** forks (My PhD Thesis (HTML)) 
