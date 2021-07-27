@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 * [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) **2⭐, 0** forks (Demo script (Python) of particle swarm optimization (PSO) pa...) 
 * [effFisher_demo](https://github.com/iphysresearch/effFisher_demo) **2⭐, 0** forks (Effective Fisher Information Matrix (demo)) 
 * [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com ) 
-* [PCLGW](https://github.com/iphysresearch/PCLGW) **1⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...) 
-* [GWToolkit](https://github.com/iphysresearch/GWToolkit) **1⭐, 0** forks (GWToolkit: A Python Toolbox for gravitational wave astronomy...)<!-- PROJECTS END -->
+* [GWToolkit](https://github.com/iphysresearch/GWToolkit) **1⭐, 0** forks (GWToolkit: A Python Toolbox for gravitational wave astronomy...) 
+* [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **1⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...)<!-- PROJECTS END -->
