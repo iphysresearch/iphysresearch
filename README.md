@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Git: submodule 子模块简明教程](https://iphysresearch.github.io/blog/post/programing/git/git_submodule/)
 - [GitHub 不再支持密码验证，如何在 macOS 上实现 Token 登陆配置](https://iphysresearch.github.io/blog/post/programing/2021-08-13-token-authentication-requirements-for-git-operations/)
 - [解决 GitHub 的 host 域名被限制的问题](https://iphysresearch.github.io/blog/post/programing/linux_shell/hosts/)
 - [[Paper Summary] Complete Parameter Inference for GW150914 Using Deep Learning](https://iphysresearch.github.io/blog/post/apaperaday/complete_parameter_inference_for_gw150914_using_deep_learning/)
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 - [Python 中负数取余问题](https://iphysresearch.github.io/blog/post/programing/python/modulo_on_negative/)
 - [恒 Q 变换 (Constant-Q transform)](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
 - [Unit 3: Structure & Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
-- [Python 装饰器之 Property: Setter 和 Getter](https://iphysresearch.github.io/blog/post/programing/python/property_setter/)
 
 <!-- BLOG-POST-LIST:END -->
 
