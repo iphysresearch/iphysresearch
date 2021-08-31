@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 * [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **6⭐, 0** forks (My PhD Thesis (HTML)) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **6⭐, 0** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **4⭐, 1** forks (A survey on gravitational waves researches using machine lea...) 
+* [Docker_cadabra2](https://github.com/iphysresearch/Docker_cadabra2) **3⭐, 0** forks (Docker image for Cadabra2) 
 * [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) **2⭐, 0** forks (Demo script (Python) of particle swarm optimization (PSO) pa...) 
 * [effFisher_demo](https://github.com/iphysresearch/effFisher_demo) **2⭐, 0** forks (Effective Fisher Information Matrix (demo)) 
 * [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com ) 
