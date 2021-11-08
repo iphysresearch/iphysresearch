@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - [[Paper Summary] Complete Parameter Inference for GW150914 Using Deep Learning](https://iphysresearch.github.io/blog/post/apaperaday/complete_parameter_inference_for_gw150914_using_deep_learning/)
 - [Particle Swarm Optimization From Scratch Using Python](https://iphysresearch.github.io/blog/post/ml_notes/pso_python/)
 - [Bayes Inference, Bayes Factor, Model Selection](https://iphysresearch.github.io/blog/post/ml_notes/bayes_inference_bayes_factor_model_selection/)
-- [谱分析 (spectral analysis) 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
+- [谱分析 &lpar;spectral analysis&rpar; 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
 - [Python 中负数取余问题](https://iphysresearch.github.io/blog/post/programing/python/modulo_on_negative/)
-- [恒 Q 变换 (Constant-Q transform)](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
-- [Unit 3: Structure & Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
+- [恒 Q 变换 &lpar;Constant-Q transform&rpar;](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
+- [Unit 3: Structure &amp; Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
 
 <!-- BLOG-POST-LIST:END -->
 
