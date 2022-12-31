@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           #feed_list: 'http://fetchrss.com/rss/5f9c23f4ee36980a6b59c7f25f9c24ef0235fb0ef307f362.xml'
           feed_list: 'https://iphysresearch.github.io/blog/post/index.xml'
