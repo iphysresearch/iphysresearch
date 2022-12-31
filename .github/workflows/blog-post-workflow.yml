@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull from posts
-        uses: gautamkrishnar/blog-post-workflow@1.8.0
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           #feed_list: 'http://fetchrss.com/rss/5f9c23f4ee36980a6b59c7f25f9c24ef0235fb0ef307f362.xml'
           feed_list: 'https://iphysresearch.github.io/blog/post/index.xml'
