@@ -25,8 +25,8 @@ jobs:
           #feed_list: 'https://iphysresearch.github.io/blog/author/herb/index.xml'
           #feed_list: 'https://iphysresearch.github.io/blog/index.xml'
           #feed_list: 'https://offering.solutions/index.xml'
-#           user_agent: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
-#           accept_header: 'text/xml'
-#           description_max_length: "40"
-#           tag_post_pre_newline: "true"
-#           max_post_count: "10"
+          user_agent: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+          accept_header: 'text/xml'
+          description_max_length: "40"
+          tag_post_pre_newline: "true"
+          max_post_count: "10"
