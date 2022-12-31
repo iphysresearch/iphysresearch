@@ -7,14 +7,17 @@ on:
     # workflow runs every hour
     - cron: '0 * * * *'
     #- cron: '*/5 * * * *' # Runs every 5 minutes
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           #feed_list: 'http://fetchrss.com/rss/5f9c23f4ee36980a6b59c7f25f9c24ef0235fb0ef307f362.xml'
           feed_list: 'https://iphysresearch.github.io/blog/post/index.xml'
