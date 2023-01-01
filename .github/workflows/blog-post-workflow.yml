@@ -30,3 +30,4 @@ jobs:
           description_max_length: "40"
           tag_post_pre_newline: "true"
           max_post_count: "10"
+          disable_item_validation: "true"
