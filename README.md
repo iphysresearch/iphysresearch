@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [IAIFI Summer School &amp; Workshop](https://iphysresearch.github.io/blog/post/dl_notes/iaifi/)
 - [Git: submodule 子模块简明教程](https://iphysresearch.github.io/blog/post/programing/git/git_submodule/)
 - [GitHub 不再支持密码验证，如何在 macOS 上实现 Token 登陆配置](https://iphysresearch.github.io/blog/post/programing/2021-08-13-token-authentication-requirements-for-git-operations/)
 - [解决 GitHub 的 host 域名被限制的问题](https://iphysresearch.github.io/blog/post/programing/linux_shell/hosts/)
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 - [谱分析 &lpar;spectral analysis&rpar; 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
 - [Python 中负数取余问题](https://iphysresearch.github.io/blog/post/programing/python/modulo_on_negative/)
 - [恒 Q 变换 &lpar;Constant-Q transform&rpar;](https://iphysresearch.github.io/blog/post/signal_processing/cqt/)
-- [Unit 3: Structure &amp; Paragraphs（学术写作）](https://iphysresearch.github.io/blog/post/writting/writting-in-the-sciences/unit3/)
 
 <!-- BLOG-POST-LIST:END -->
 
