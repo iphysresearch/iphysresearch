@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Prompt-Tuning: 深度解读一种新的微调范式](https://iphysresearch.github.io/blog/post/dl_notes/prompt_tuning/)
 - [面向开发者的 ChatGPT 提示工程](https://iphysresearch.github.io/blog/post/dl_notes/prompt_engineering/)
 - [IAIFI Summer School &amp; Workshop](https://iphysresearch.github.io/blog/post/dl_notes/iaifi/)
 - [Git: submodule 子模块简明教程](https://iphysresearch.github.io/blog/post/programing/git/git_submodule/)
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 - [Particle Swarm Optimization From Scratch Using Python](https://iphysresearch.github.io/blog/post/ml_notes/pso_python/)
 - [Bayes Inference, Bayes Factor, Model Selection](https://iphysresearch.github.io/blog/post/ml_notes/bayes_inference_bayes_factor_model_selection/)
 - [谱分析 &lpar;spectral analysis&rpar; 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
-- [Python 中负数取余问题](https://iphysresearch.github.io/blog/post/programing/python/modulo_on_negative/)
 
 <!-- BLOG-POST-LIST:END -->
 
