@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1653⭐, 313** forks (A collection of popular Data Science Challenges/Competitions...) 
-* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **686⭐, 177** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1652⭐, 313** forks (A collection of popular Data Science Challenges/Competitions...) 
+* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **687⭐, 177** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **18⭐, 9** forks (S_Dbw validity index) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **17⭐, 2** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **15⭐, 3** forks (A survey on gravitational waves researches using machine lea...) 
-* [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **9⭐, 2** forks (My PhD Thesis (HTML)) 
+* [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **10⭐, 2** forks (My PhD Thesis (HTML)) 
 * [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) **5⭐, 1** forks (Demo script (Python) of particle swarm optimization (PSO) pa...) 
 * [Docker_cadabra2](https://github.com/iphysresearch/Docker_cadabra2) **5⭐, 0** forks (Docker image for Cadabra2) 
 * [effFisher_demo](https://github.com/iphysresearch/effFisher_demo) **3⭐, 0** forks (Effective Fisher Information Matrix (demo)) 
