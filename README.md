@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1658⭐, 310** forks (A collection of popular Data Science Challenges/Competitions...) 
-* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **731⭐, 180** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
-* [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **30⭐, 46** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1655⭐, 310** forks (A collection of popular Data Science Challenges/Competitions...) 
+* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **732⭐, 180** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
+* [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **32⭐, 54** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **22⭐, 4** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **18⭐, 9** forks (S_Dbw validity index) 
 * [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **11⭐, 2** forks (My PhD Thesis (HTML)) 
