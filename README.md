@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iphysreseach&label=Profile%20views&color=0e75b6&style=plastic" alt="iphysreseach" /> </p>
 
 <!-- If you're using "main" as default branch  https://metrics.lecoq.io/  -->
-![Metrics](https://metrics.lecoq.io/iphysresearch?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&tweets=1&stars.limit=2&tweets.limit=3&tweets.user=.user.twitter&config.timezone=Asia%2FShanghai&config.animated=true)
+![Metrics](https://metrics.lecoq.io/?template=classic&activity=1&tweets=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&tweets=false&tweets.user=Herb_hewang&tweets.attachments=true&tweets.limit=3&config.timezone=Asia%2FShanghai)
 
 ### ⚡ Latest blog posts
 
