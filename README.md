@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 * [2023gwml4tianqin](https://github.com/iphysresearch/2023gwml4tianqin) **8⭐, 1** forks (Summer School on GW+ML - TianQin) 
 * [Docker_cadabra2](https://github.com/iphysresearch/Docker_cadabra2) **6⭐, 0** forks (Docker image for Cadabra2) 
 * [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) **5⭐, 1** forks (Demo script (Python) of particle swarm optimization (PSO) pa...) 
-* [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **3⭐, 2** forks (A survey on gravitational waves researches using machine lea...) 
+* [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **4⭐, 2** forks (A survey on gravitational waves researches using machine lea...) 
 * [effFisher_demo](https://github.com/iphysresearch/effFisher_demo) **3⭐, 0** forks (Effective Fisher Information Matrix (demo)) 
 * [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...) 
 * [GWToolkit_old](https://github.com/iphysresearch/GWToolkit_old) **2⭐, 0** forks (GWToolkit: A Python Toolbox for gravitational wave astronomy...) 
