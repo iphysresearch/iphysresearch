@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1672⭐, 303** forks (A collection of popular Data Science Challenges/Competitions...) 
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1673⭐, 303** forks (A collection of popular Data Science Challenges/Competitions...) 
 * [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **958⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
 * [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **121⭐, 162** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **35⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
