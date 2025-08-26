@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1675⭐, 303** forks (A collection of popular Data Science Challenges/Competitions...) 
-* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **959⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1676⭐, 303** forks (A collection of popular Data Science Challenges/Competitions...) 
+* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **960⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
 * [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **122⭐, 163** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **35⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **19⭐, 9** forks (S_Dbw validity index) 
@@ -51,10 +51,11 @@ Here are some ideas to get you started:
 * [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **8⭐, 3** forks (A survey on gravitational waves researches using machine lea...) 
 * [Docker_cadabra2](https://github.com/iphysresearch/Docker_cadabra2) **6⭐, 0** forks (Docker image for Cadabra2) 
 * [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) **5⭐, 2** forks (Demo script (Python) of particle swarm optimization (PSO) pa...) 
+* [evo-mcts](https://github.com/iphysresearch/evo-mcts) **5⭐, 0** forks (Official implementation of "Automated Algorithmic Discovery ...) 
 * [effFisher_demo](https://github.com/iphysresearch/effFisher_demo) **4⭐, 1** forks (Effective Fisher Information Matrix (demo)) 
 * [GW](https://github.com/iphysresearch/GW) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...) 
+* [gw150914-mcp-signal-search](https://github.com/iphysresearch/gw150914-mcp-signal-search) **3⭐, 1** forks (🌊 GW150914 MCP Signal Search: AI-powered gravitational wave ...) 
 * [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...) 
 * [GWToolkit_old](https://github.com/iphysresearch/GWToolkit_old) **2⭐, 0** forks (GWToolkit: A Python Toolbox for gravitational wave astronomy...) 
-* [gw150914-mcp-signal-search](https://github.com/iphysresearch/gw150914-mcp-signal-search) **2⭐, 1** forks (🌊 GW150914 MCP Signal Search: AI-powered gravitational wave ...) 
 * [UCAS_ICTP_AP-cover_letter-template](https://github.com/iphysresearch/UCAS_ICTP_AP-cover_letter-template) **1⭐, 0** forks (UCAS, ICTP-AP Cover Letter Template (国科大投稿信模板， 主要用作论文投稿/修改稿/...) 
 * [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com )<!-- PROJECTS END -->
