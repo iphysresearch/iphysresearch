@@ -58,4 +58,5 @@ Here are some ideas to get you started:
 * [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...) 
 * [GWToolkit_old](https://github.com/iphysresearch/GWToolkit_old) **2⭐, 0** forks (GWToolkit: A Python Toolbox for gravitational wave astronomy...) 
 * [UCAS_ICTP_AP-cover_letter-template](https://github.com/iphysresearch/UCAS_ICTP_AP-cover_letter-template) **1⭐, 0** forks (UCAS, ICTP-AP Cover Letter Template (国科大投稿信模板， 主要用作论文投稿/修改稿/...) 
-* [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com )<!-- PROJECTS END -->
+* [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com ) 
+* [gw-arxiv-digest](https://github.com/iphysresearch/gw-arxiv-digest) **1⭐, 0** forks (Automated gravitational wave arXiv digest system with daily ...)<!-- PROJECTS END -->
