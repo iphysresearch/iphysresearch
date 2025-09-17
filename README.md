@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- PROJECTS START -->
 * [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1675⭐, 303** forks (A collection of popular Data Science Challenges/Competitions...) 
 * [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **962⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型) 
-* [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **124⭐, 164** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
+* [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **125⭐, 164** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **35⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **19⭐, 9** forks (S_Dbw validity index) 
 * [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **14⭐, 6** forks (My PhD Thesis (HTML)) 
