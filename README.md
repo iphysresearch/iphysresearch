@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **36⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **20⭐, 9** forks (S_Dbw validity index) 
 * [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **14⭐, 7** forks (My PhD Thesis (HTML)) 
+* [evo-mcts](https://github.com/iphysresearch/evo-mcts) **9⭐, 0** forks (Official implementation of "Automated Algorithmic Discovery ...) 
 * [2023gwml4tianqin](https://github.com/iphysresearch/2023gwml4tianqin) **9⭐, 2** forks (Summer School on GW+ML - TianQin) 
 * [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **8⭐, 3** forks (A survey on gravitational waves researches using machine lea...) 
-* [evo-mcts](https://github.com/iphysresearch/evo-mcts) **7⭐, 0** forks (Official implementation of "Automated Algorithmic Discovery ...) 
 * [Docker_cadabra2](https://github.com/iphysresearch/Docker_cadabra2) **6⭐, 0** forks (Docker image for Cadabra2) 
 * [PSO_python_demo](https://github.com/iphysresearch/PSO_python_demo) **5⭐, 2** forks (Demo script (Python) of particle swarm optimization (PSO) pa...) 
 * [effFisher_demo](https://github.com/iphysresearch/effFisher_demo) **4⭐, 1** forks (Effective Fisher Information Matrix (demo)) 
@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 * [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...) 
 * [wanmen-pytorch-course-materials](https://github.com/iphysresearch/wanmen-pytorch-course-materials) **2⭐, 0** forks (PyTorch Deep Learning course materials (slides & notebooks),...) 
 * [GWToolkit_old](https://github.com/iphysresearch/GWToolkit_old) **2⭐, 0** forks (GWToolkit: A Python Toolbox for gravitational wave astronomy...) 
+* [gw-arxiv-digest](https://github.com/iphysresearch/gw-arxiv-digest) **2⭐, 0** forks (Automated gravitational wave arXiv digest system with daily ...) 
 * [UCAS_ICTP_AP-cover_letter-template](https://github.com/iphysresearch/UCAS_ICTP_AP-cover_letter-template) **1⭐, 0** forks (UCAS, ICTP-AP Cover Letter Template (国科大投稿信模板， 主要用作论文投稿/修改稿/...) 
-* [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com ) 
-* [gw-arxiv-digest](https://github.com/iphysresearch/gw-arxiv-digest) **1⭐, 0** forks (Automated gravitational wave arXiv digest system with daily ...)<!-- PROJECTS END -->
+* [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com )<!-- PROJECTS END -->
