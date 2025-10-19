@@ -16,7 +16,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "iphysresearch"
           max_items: "10"
-          time_zone: "Asia/Beijing"
+          time_zone: "Asia/Shanghai"
           date_format: "YYYY.MM.DD"
           event_templates: >
             {
