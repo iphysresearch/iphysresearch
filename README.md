@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 * [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **126⭐, 164** forks (Gravitational Wave Data Exploration: A Practical Training in...) 
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **36⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB) 
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **20⭐, 9** forks (S_Dbw validity index) 
-* [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **14⭐, 7** forks (My PhD Thesis (HTML)) 
+* [PhDthesis_html](https://github.com/iphysresearch/PhDthesis_html) **14⭐, 8** forks (My PhD Thesis (HTML)) 
 * [evo-mcts](https://github.com/iphysresearch/evo-mcts) **9⭐, 0** forks (Official implementation of "Automated Algorithmic Discovery ...) 
 * [2023gwml4tianqin](https://github.com/iphysresearch/2023gwml4tianqin) **9⭐, 2** forks (Summer School on GW+ML - TianQin) 
 * [Survey4GWML](https://github.com/iphysresearch/Survey4GWML) **8⭐, 3** forks (A survey on gravitational waves researches using machine lea...) 
