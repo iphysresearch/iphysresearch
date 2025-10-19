@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: With worldmap
+name: Recent activity
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -23,13 +23,14 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
 
-          filename: metrics.plugin.stargazers.worldmap.svg
+          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          # plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
