@@ -8,7 +8,18 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Debug - Check current directory
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Files in current directory:"
+          ls -la
+          echo "README.md exists: $([ -f README.md ] && echo 'Yes' || echo 'No')"
 
       - name: Run the Activity Widget Action
         uses: FreddyMSchubert/github-activity-timeline@main
@@ -20,16 +31,23 @@ jobs:
           date_format: "YYYY.MM.DD"
           event_templates: >
             {
-              "issues_opened": "<li>⚠️ {{human_date}}: Opened issue <a href=\\\"{{payload.issue.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: “{{(() => { const ctx = payload.issue.title + ' – ' + (payload.issue.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}”</li>",
-              "issues_closed": "<li>✅ {{human_date}}: Closed issue <a href=\\\"{{payload.issue.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: “{{(() => { const ctx = payload.issue.title + ' – ' + (payload.issue.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}”</li>",
-              "issue_commented": "<li>💬 {{human_date}}: Commented on issue <a href=\\\"{{payload.comment.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: “{{(() => { const snippet = (payload.comment.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return snippet.length > 50 ? snippet.slice(0,50) + '…' : snippet; })()}}”</li>",
-              "pr_opened": "<li>🚀 {{human_date}}: Opened PR <a href=\\\"{{payload.pull_request.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a>: “{{(() => { const ctx = payload.pull_request.title + ' – ' + (payload.pull_request.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}”</li>",
+              "issues_opened": "<li>⚠️ {{human_date}}: Opened issue <a href=\\\"{{payload.issue.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: \"{{(() => { const ctx = payload.issue.title + ' – ' + (payload.issue.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}\"</li>",
+              "issues_closed": "<li>✅ {{human_date}}: Closed issue <a href=\\\"{{payload.issue.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: \"{{(() => { const ctx = payload.issue.title + ' – ' + (payload.issue.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}\"</li>",
+              "issue_commented": "<li>💬 {{human_date}}: Commented on issue <a href=\\\"{{payload.comment.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: \"{{(() => { const snippet = (payload.comment.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return snippet.length > 50 ? snippet.slice(0,50) + '…' : snippet; })()}}\"</li>",
+              "pr_opened": "<li>🚀 {{human_date}}: Opened PR <a href=\\\"{{payload.pull_request.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a>: \"{{(() => { const ctx = payload.pull_request.title + ' – ' + (payload.pull_request.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}\"</li>",
               "pr_merged": "<li>🌕 {{human_date}}: Merged PR <a href=\\\"{{payload.pull_request.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a></li>",
               "pr_closed": "<li>💥 {{human_date}}: Closed PR <a href=\\\"{{payload.pull_request.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a> without merge</li>",
               "pr_review_approved": "<li>👍 {{human_date}}: Approved PR <a href=\\\"{{payload.pull_request.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a></li>",
               "pr_review_changes_requested": "<li>👎 {{human_date}}: Requested changes on PR <a href=\\\"{{payload.pull_request.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a></li>",
-              "pr_review_comment": "<li>✍️ {{human_date}}: Commented on PR review <a href=\\\"{{payload.comment.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a>: “{{(() => { const snippet = (payload.comment.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return snippet.length > 50 ? snippet.slice(0,50) + '…' : snippet; })()}}”</li>"
+              "pr_review_comment": "<li>✍️ {{human_date}}: Commented on PR review <a href=\\\"{{payload.comment.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a>: \"{{(() => { const snippet = (payload.comment.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return snippet.length > 50 ? snippet.slice(0,50) + '…' : snippet; })()}}\"</li>"
             }
+
+      - name: Debug - Check if README was modified
+        run: |
+          echo "Git status after action:"
+          git status
+          echo "README.md content preview:"
+          head -20 README.md || echo "README.md not found"
 
       - name: Commit updated README 📖
         run: |
@@ -37,10 +55,13 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           # only commit if there are changes
-          git diff --cached --quiet || git commit -m "chore: update activity widget"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            echo "Changes detected, committing..."
+            git commit -m "chore: update activity widget"
+          fi
 
       - name: Push changes 🔼
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+        run: |
+          git push origin HEAD:main
