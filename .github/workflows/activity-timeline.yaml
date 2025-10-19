@@ -13,7 +13,7 @@ jobs:
       - name: Run the Activity Widget Action
         uses: FreddyMSchubert/github-activity-timeline@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.README_PROJECTS_DISPLAY }}
           username: "iphysresearch"
           max_items: "10"
           time_zone: "Asia/Shanghai"
@@ -42,5 +42,5 @@ jobs:
       - name: Push changes 🔼
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.README_PROJECTS_DISPLAY }}
           branch: main
