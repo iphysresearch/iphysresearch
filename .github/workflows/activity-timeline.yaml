@@ -14,9 +14,9 @@ jobs:
         uses: FreddyMSchubert/github-activity-timeline@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: "FreddyMSchubert"
+          username: "iphysresearch"
           max_items: "10"
-          time_zone: "Europe/Berlin"
+          time_zone: "Asian/Beijing"
           date_format: "DD.MM.YYYY"
           event_templates: >
             {
