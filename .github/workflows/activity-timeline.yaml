@@ -16,8 +16,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "iphysresearch"
           max_items: "10"
-          time_zone: "Asian/Beijing"
-          date_format: "DD.MM.YYYY"
+          time_zone: "Asia/Beijing"
+          date_format: "YYYY.MM.DD"
           event_templates: >
             {
               "issues_opened": "<li>⚠️ {{human_date}}: Opened issue <a href=\\\"{{payload.issue.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: “{{(() => { const ctx = payload.issue.title + ' – ' + (payload.issue.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}”</li>",
