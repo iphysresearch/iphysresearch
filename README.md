@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <!-- ACTIVITY:START -->
 <!-- ACTIVITY:END -->
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 ### ⚡ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
