@@ -1,22 +1,105 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+Researcher;Gravitational+Wave+Astronomer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 
-<!--
-**iphysresearch/iphysresearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iphysreseach&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="iphysresearch" />
+  <img src="https://img.shields.io/github/followers/iphysresearch?label=Followers&style=for-the-badge&color=2E86AB" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/iphysresearch?label=Total%20Stars&style=for-the-badge&color=F7B731" alt="Total Stars" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iphysresearch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" />
+</div>
+
+
+### 🔬 Research Interests
+- **Machine Learning** for Gravitational Wave Astronomy
+- **Deep Learning** Applications in Astrophysics
+- **Signal Processing** and Data Analysis
+- **Open Source** Scientific Software Development
+
+### 🛠️ Tech Stack
+
+#### Programming Languages & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAX-FF6B6B?style=for-the-badge&logo=jax&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
+
+#### AI/ML Platforms & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FF7F00?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+#### Development Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://x.com/Herb_wang">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://iphysresearch.github.io/blog/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://github.com/iphysresearch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:hewang@ucas.ac.cn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iphysresearch&theme=github-compact&hide_border=true&area=true&height=300&custom_title=My%20Contribution%20Activity" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iphysresearch&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iphysresearch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iphysreseach&label=Profile%20views&color=0e75b6&style=plastic" alt="iphysreseach" /> </p>
+
 
 <!-- ACTIVITY:START -->
 <!-- ACTIVITY:END -->
