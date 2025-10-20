@@ -107,6 +107,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1.  Labeled issue [#16](https://github.com/iphysresearch/status/issues/16) in [iphysresearch/status](https://github.com/iphysresearch/status)
+2.  Labeled issue [#16](https://github.com/iphysresearch/status/issues/16) in [iphysresearch/status](https://github.com/iphysresearch/status)
+3. ❗ Opened issue [#16](https://github.com/iphysresearch/status/issues/16) in [iphysresearch/status](https://github.com/iphysresearch/status)
+<!--END_SECTION:activity-->
 
 ### ⚡ Latest blog posts
 
