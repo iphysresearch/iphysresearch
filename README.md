@@ -107,7 +107,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#16](https://github.com/iphysresearch/status/issues/16) in [iphysresearch/status](https://github.com/iphysresearch/status)
+1. 🗣 Commented on [#41](https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3443336593) in [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
 2.  Labeled issue [#16](https://github.com/iphysresearch/status/issues/16) in [iphysresearch/status](https://github.com/iphysresearch/status)
 3. ❗ Opened issue [#16](https://github.com/iphysresearch/status/issues/16) in [iphysresearch/status](https://github.com/iphysresearch/status)
 <!--END_SECTION:activity-->
