@@ -102,7 +102,7 @@
 
 
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3443336593">54yyyu/zotero-mcp#41</a>: "@matercomus  Hi! I don't know how to set up zotero…"</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3443336593">54yyyu/zotero-mcp#41</a>: "@matercomus  Hi! I don't know how to set up zotero…"</li>
 <!-- ACTIVITY:END -->
 
 ### :zap: Recent Activity
