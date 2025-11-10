@@ -102,8 +102,8 @@
 
 
 <!-- ACTIVITY:START -->
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3491944936">54yyyu/zotero-mcp#41</a>: "@matercomus Thank you so much! It's working!"</li>
-<li>🚀 6 days ago: Opened PR <a href="undefined">HKUST-KnowComp/Awesome-LLM-Scientific-Discovery#7</a>: "undefined – "</li>
+<li>💬 6 days ago: Commented on issue <a href="https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3491944936">54yyyu/zotero-mcp#41</a>: "@matercomus Thank you so much! It's working!"</li>
+<li>🚀 7 days ago: Opened PR <a href="undefined">HKUST-KnowComp/Awesome-LLM-Scientific-Discovery#7</a>: "undefined – "</li>
 <li>💬 2025.10.24: Commented on issue <a href="https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3443336593">54yyyu/zotero-mcp#41</a>: "@matercomus  Hi! I don't know how to set up zotero…"</li>
 <!-- ACTIVITY:END -->
 
