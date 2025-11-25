@@ -103,7 +103,6 @@
 
 <!-- ACTIVITY:START -->
 <li>💬 2025.11.05: Commented on issue <a href="https://github.com/54yyyu/zotero-mcp/issues/41#issuecomment-3491944936">54yyyu/zotero-mcp#41</a>: "@matercomus Thank you so much! It's working!"</li>
-<li>🚀 2025.11.04: Opened PR <a href="undefined">HKUST-KnowComp/Awesome-LLM-Scientific-Discovery#7</a>: "undefined – "</li>
 <!-- ACTIVITY:END -->
 
 ### :zap: Recent Activity
