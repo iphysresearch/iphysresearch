@@ -102,6 +102,10 @@
 
 
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/iphysresearch/status/issues/20">iphysresearch/status#20</a>: "🛑 IPhysResearch / PhDthesis_html is down – In [`7…"</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/iphysresearch/status/issues/19">iphysresearch/status#19</a>: "🛑 IPhysResearch / Profile (/blog/about/) is down …"</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/iphysresearch/status/issues/18">iphysresearch/status#18</a>: "🛑 IPhysResearch / Profile (/-he.wang/) is down – …"</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/iphysresearch/status/issues/17">iphysresearch/status#17</a>: "🛑 IPhysResearch / Blog is down – In [`2449461`](h…"</li>
 <!-- ACTIVITY:END -->
 
 ### :zap: Recent Activity
