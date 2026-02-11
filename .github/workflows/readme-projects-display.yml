@@ -15,5 +15,5 @@ jobs:
       - uses: kaustubhgupta/readme-projects-display@master
         with:
           gh_token: ${{ secrets.README_PROJECTS_DISPLAY }} # Create a secret to store the access token 
-          max_projects: 50  # 设定显示的项目数量
+          max_repos: 100  # 设定显示的项目数量
           max_repo_description: 60
