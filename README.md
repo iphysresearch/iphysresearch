@@ -106,8 +106,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#20](https://github.com/iphysresearch/status/issues/20) in [iphysresearch/status](https://github.com/iphysresearch/status)
-2.  Labeled issue [#20](https://github.com/iphysresearch/status/issues/20) in [iphysresearch/status](https://github.com/iphysresearch/status)
+1. 🎉 Merged PR [#1](https://github.com/iphysresearch/iphysresearch/pull/1) in [iphysresearch/iphysresearch](https://github.com/iphysresearch/iphysresearch)
+2. 💪 Opened PR [#1](https://github.com/iphysresearch/iphysresearch/pull/1) in [iphysresearch/iphysresearch](https://github.com/iphysresearch/iphysresearch)
 3. ❗ Opened issue [#20](https://github.com/iphysresearch/status/issues/20) in [iphysresearch/status](https://github.com/iphysresearch/status)
 <!--END_SECTION:activity-->
 
