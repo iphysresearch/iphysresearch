@@ -2,7 +2,13 @@ name: 🛠️ Activity Widget
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "13 */6 * * *"   # every 6 hours, off the :00 mark
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-writers
 
 jobs:
   update-readme:
@@ -13,13 +19,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-
-      - name: Debug - Check current directory
-        run: |
-          echo "Current directory: $(pwd)"
-          echo "Files in current directory:"
-          ls -la
-          echo "README.md exists: $([ -f README.md ] && echo 'Yes' || echo 'No')"
 
       - name: Run the Activity Widget Action
         uses: FreddyMSchubert/github-activity-timeline@main
@@ -42,13 +41,6 @@ jobs:
               "pr_review_comment": "<li>✍️ {{human_date}}: Commented on PR review <a href=\\\"{{payload.comment.html_url}}\\\">{{repo}}#{{payload.pull_request.number}}</a>: \"{{(() => { const snippet = (payload.comment.body || '').replace(/(\\r\\n|\\n|\\r)/gm, ' '); return snippet.length > 50 ? snippet.slice(0,50) + '…' : snippet; })()}}\"</li>"
             }
 
-      - name: Debug - Check if README was modified
-        run: |
-          echo "Git status after action:"
-          git status
-          echo "README.md content preview:"
-          head -20 README.md || echo "README.md not found"
-
       - name: Commit updated README 📖
         run: |
           git config user.name "github-actions[bot]"
@@ -64,4 +56,5 @@ jobs:
 
       - name: Push changes 🔼
         run: |
+          git pull --rebase origin main
           git push origin HEAD:main

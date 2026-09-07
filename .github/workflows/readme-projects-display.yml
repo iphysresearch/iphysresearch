@@ -1,19 +1,47 @@
 name: Update Projects
+# Rebuilds the "Projects" block of README.md from the public repositories that
+# carry the `project` topic. See .github/scripts/update_projects.py.
 on:
   schedule:
-    - cron: '0 0 * * *'
-    # This makes the action to run at the end of every day. Customize this accordingly or you can also trigger this action for GitHub events (Pull, Push). Check the GitHub actions page for that.
+    - cron: '23 1 * * *'   # daily, 09:23 Asia/Shanghai (off the :00 mark)
   workflow_dispatch:
-    # workflow_dispatch allows you to trigger the action any time manually
+
+permissions:
+  contents: write
+
+# All README-writing workflows share this group so they never push concurrently.
+concurrency:
+  group: readme-writers
 
 jobs:
   update-readme-with-projects:
     name: Update this repo's README with latest project updates
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: kaustubhgupta/readme-projects-display@master
+      - uses: actions/checkout@v4
         with:
-          gh_token: ${{ secrets.README_PROJECTS_DISPLAY }} # Create a secret to store the access token 
-          max_repos: 100  # 设定显示的项目数量
-          max_repo_description: 60
+          fetch-depth: 0
+
+      - name: Regenerate Projects section
+        run: python3 .github/scripts/update_projects.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: iphysresearch
+          PROJECT_TOPIC: project
+          MAX_REPOS: '30'
+          MAX_DESC: '60'
+          INCLUDE_FORKS: 'true'
+          INCLUDE_ARCHIVED: 'true'
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update projects section"
+          git pull --rebase origin main
+          git push origin HEAD:main
