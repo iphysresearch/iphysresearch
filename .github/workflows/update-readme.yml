@@ -1,15 +1,19 @@
 name: Update README
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '41 */6 * * *'   # every 6 hours, off the :00 mark
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-writers
+
 jobs:
   build:
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
