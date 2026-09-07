@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+He+Wang;Machine+Learning+%C3%97+Gravitational+Waves;Research+Associate+at+ICTP-AP%2C+UCAS" alt="He Wang - Machine Learning x Gravitational Waves" />
   <p>
-    <img src="https://komarev.com/ghpvc/?username=iphysresearch&label=Profile%20views&color=2E86AB&style=for-the-badge" alt="Profile views" />
+    <!-- The komarev counter key is deliberately the misspelled "iphysreseach": the historical count lives under that name. Do not "fix" it. -->
+    <img src="https://komarev.com/ghpvc/?username=iphysreseach&label=Profile%20views&color=2E86AB&style=for-the-badge" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/iphysresearch?label=Followers&style=for-the-badge&color=2E86AB" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/iphysresearch?label=Total%20Stars&style=for-the-badge&color=F7B731" alt="Total stars" />
   </p>
