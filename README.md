@@ -82,12 +82,6 @@
   <a href="mailto:hewang@ucas.ac.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2E86AB/iphysresearch" alt="Contribution calendar of the last 12 months" width="100%" />
-</div>
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
