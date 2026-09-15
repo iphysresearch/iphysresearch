@@ -113,7 +113,7 @@
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1673⭐, 297** forks (A collection of popular Data Science Challenges/Competitions...) _(archived)_
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1674⭐, 297** forks (A collection of popular Data Science Challenges/Competitions...) _(archived)_
 * [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **1021⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型)
 * [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **141⭐, 172** forks (Gravitational Wave Data Exploration: A Practical Training in...)
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **39⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB)
