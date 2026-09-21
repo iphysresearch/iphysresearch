@@ -114,7 +114,7 @@
 
 <!-- PROJECTS START -->
 * [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1674⭐, 297** forks (A collection of popular Data Science Challenges/Competitions...) _(archived)_
-* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **1021⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型)
+* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **1022⭐, 200** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型)
 * [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **141⭐, 172** forks (Gravitational Wave Data Exploration: A Practical Training in...)
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **39⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB)
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **20⭐, 8** forks (S_Dbw validity index)
@@ -129,7 +129,7 @@
 * [UCAS_ICTP_AP-cover_letter-template](https://github.com/iphysresearch/UCAS_ICTP_AP-cover_letter-template) **4⭐, 1** forks (UCAS, ICTP-AP Cover Letter Template (国科大投稿信模板， 主要用作论文投稿/修改稿/...)
 * [gw-arxiv-digest](https://github.com/iphysresearch/gw-arxiv-digest) **3⭐, 0** forks (Automated gravitational wave arXiv digest system with daily...)
 * [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...)
-* [G-LNS](https://github.com/iphysresearch/G-LNS) **2⭐, 0** forks
+* [G-LNS](https://github.com/iphysresearch/G-LNS) **2⭐, 0** forks (Generative Large Neighborhood Search for LLM-Based Automatic...)
 * [gwai-monograph](https://github.com/iphysresearch/gwai-monograph) **2⭐, 0** forks (《引力波数据分析中的人工智能方法》在线开源版 — HTML + PDF + LaTeX 源码)
 * [wanmen-pytorch-course-materials](https://github.com/iphysresearch/wanmen-pytorch-course-materials) **2⭐, 0** forks (PyTorch Deep Learning course materials (slides & notebooks),...)
 * [score-sde-reproduction](https://github.com/iphysresearch/score-sde-reproduction) **1⭐, 0** forks (Score-SDE reproduction with modern JAX/Flax. This repo adds...)
