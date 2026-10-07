@@ -131,7 +131,7 @@
 * [gw-arxiv-digest](https://github.com/iphysresearch/gw-arxiv-digest) **3⭐, 0** forks (Automated gravitational wave arXiv digest system with daily...)
 * [GW_PE_prior_sampling](https://github.com/iphysresearch/GW_PE_prior_sampling) **3⭐, 0** forks (Sampling with Prior Knowledge for High-dimensional Gravitati...)
 * [G-LNS](https://github.com/iphysresearch/G-LNS) **2⭐, 0** forks (Generative Large Neighborhood Search for LLM-Based Automatic...)
+* [score-sde-reproduction](https://github.com/iphysresearch/score-sde-reproduction) **2⭐, 0** forks (Score-SDE reproduction with modern JAX/Flax. This repo adds...)
 * [wanmen-pytorch-course-materials](https://github.com/iphysresearch/wanmen-pytorch-course-materials) **2⭐, 0** forks (PyTorch Deep Learning course materials (slides & notebooks),...)
-* [score-sde-reproduction](https://github.com/iphysresearch/score-sde-reproduction) **1⭐, 0** forks (Score-SDE reproduction with modern JAX/Flax. This repo adds...)
 * [TheGuardian_Scrapy](https://github.com/iphysresearch/TheGuardian_Scrapy) **1⭐, 0** forks (Scrapy 框架爬取英文新闻站点： https://www.theguardian.com)
 <!-- PROJECTS END -->
