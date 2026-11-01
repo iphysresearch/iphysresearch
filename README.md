@@ -113,9 +113,9 @@
 ### ⚡ Projects
 
 <!-- PROJECTS START -->
-* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1676⭐, 296** forks (A collection of popular Data Science Challenges/Competitions...) _(archived)_
-* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **1028⭐, 199** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型)
-* [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **143⭐, 171** forks (Gravitational Wave Data Exploration: A Practical Training in...)
+* [DataSciComp](https://github.com/iphysresearch/DataSciComp) **1676⭐, 295** forks (A collection of popular Data Science Challenges/Competitions...) _(archived)_
+* [TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban) **1029⭐, 199** forks (TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型)
+* [GWData-Bootcamp](https://github.com/iphysresearch/GWData-Bootcamp) **144⭐, 171** forks (Gravitational Wave Data Exploration: A Practical Training in...)
 * [CQT_toolbox_python](https://github.com/iphysresearch/CQT_toolbox_python) **39⭐, 5** forks (Constant-Q Transform Toolbox for Python/MATLAB)
 * [S_Dbw_validity_index](https://github.com/iphysresearch/S_Dbw_validity_index) **20⭐, 8** forks (S_Dbw validity index)
 * [evo-mcts](https://github.com/iphysresearch/evo-mcts) **15⭐, 0** forks (Official implementation of "Automated Algorithmic Discovery...)
