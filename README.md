@@ -97,6 +97,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [如果有一天我足够有钱，我想办一家这样的研究所](https://iphysresearch.github.io/blog/post/imagining-an-independent-research-institute/)
+- [没有顶刊不行，又不让你追顶刊：科研评价的悖论](https://iphysresearch.github.io/blog/post/research-evaluation-paradox/)
 - [Prompt-Tuning: 深度解读一种新的微调范式](https://iphysresearch.github.io/blog/post/dl_notes/prompt_tuning/)
 - [面向开发者的 ChatGPT 提示工程](https://iphysresearch.github.io/blog/post/dl_notes/prompt_engineering/)
 - [IAIFI Summer School &amp; Workshop](https://iphysresearch.github.io/blog/post/dl_notes/iaifi/)
@@ -105,8 +107,6 @@
 - [解决 GitHub 的 host 域名被限制的问题](https://iphysresearch.github.io/blog/post/programing/linux_shell/hosts/)
 - [[Paper Summary] Complete Parameter Inference for GW150914 Using Deep Learning](https://iphysresearch.github.io/blog/post/apaperaday/complete_parameter_inference_for_gw150914_using_deep_learning/)
 - [Particle Swarm Optimization From Scratch Using Python](https://iphysresearch.github.io/blog/post/ml_notes/pso_python/)
-- [Bayes Inference, Bayes Factor, Model Selection](https://iphysresearch.github.io/blog/post/ml_notes/bayes_inference_bayes_factor_model_selection/)
-- [谱分析 &lpar;spectral analysis&rpar; 的 SciPy 代码解析](https://iphysresearch.github.io/blog/post/signal_processing/spectral_analysis_scipy/)
 
 <!-- BLOG-POST-LIST:END -->
 
