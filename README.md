@@ -97,6 +97,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [What the Einstein Test Actually Tests](https://iphysresearch.github.io/blog/post/ai_notes/einstein-test-reading-note/)
 - [如果有一天我足够有钱，我想办一家这样的研究所](https://iphysresearch.github.io/blog/post/imagining-an-independent-research-institute/)
 - [没有顶刊不行，又不让你追顶刊：科研评价的悖论](https://iphysresearch.github.io/blog/post/research-evaluation-paradox/)
 - [Prompt-Tuning: 深度解读一种新的微调范式](https://iphysresearch.github.io/blog/post/dl_notes/prompt_tuning/)
@@ -106,7 +107,6 @@
 - [GitHub 不再支持密码验证，如何在 macOS 上实现 Token 登陆配置](https://iphysresearch.github.io/blog/post/programing/2021-08-13-token-authentication-requirements-for-git-operations/)
 - [解决 GitHub 的 host 域名被限制的问题](https://iphysresearch.github.io/blog/post/programing/linux_shell/hosts/)
 - [[Paper Summary] Complete Parameter Inference for GW150914 Using Deep Learning](https://iphysresearch.github.io/blog/post/apaperaday/complete_parameter_inference_for_gw150914_using_deep_learning/)
-- [Particle Swarm Optimization From Scratch Using Python](https://iphysresearch.github.io/blog/post/ml_notes/pso_python/)
 
 <!-- BLOG-POST-LIST:END -->
 
