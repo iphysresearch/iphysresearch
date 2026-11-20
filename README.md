@@ -17,6 +17,12 @@
         <b>Research Associate</b> at ICTP-AP (UCAS) and ITP-CAS, Ph.D. from BNU.
         I work on <b>gravitational-wave data analysis</b> and <b>machine learning</b>.
       </p>
+      <p>
+        The students and collaborators I work with are on the
+        <a href="https://iphysresearch.github.io/hewang-group/"><b>group page</b></a>;
+        longer notes and papers are on the
+        <a href="https://iphysresearch.github.io/blog/"><b>blog</b></a>.
+      </p>
       <h4>🔬 Research Interests</h4>
       <ul>
         <li><b>Machine Learning</b> for Gravitational-Wave Astronomy</li>
@@ -81,6 +87,7 @@
 
 <div align="center">
   <a href="https://iphysresearch.github.io/blog/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+  <a href="https://iphysresearch.github.io/hewang-group/"><img src="https://img.shields.io/badge/Research%20Group-2E86AB?style=for-the-badge" alt="Research Group" /></a>
   <a href="https://x.com/Herb_hewang"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="mailto:hewang@ucas.ac.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
